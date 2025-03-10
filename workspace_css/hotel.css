@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+font-family: "Montserrat", sans-serif;
+
+body{
+  background-color: rgb(158, 245, 245);
+  border: 1px solid black;
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+.container .member{
+  width: 300px;
+  height: 20px;
+  align-items: center;
+  background-color: rgb(160, 244, 247);
+  display: flex;
+  border-radius: 16px;
+}
+img{
+  width: 360px;
+  height: 100px;
+  s
+}
+.info > span{
+  color: black;
+}

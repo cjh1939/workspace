@@ -1,0 +1,24 @@
+.d1{
+
+  border: 1px solid red;
+  background-color: wheat;
+
+}
+
+.d2{
+  color: blue;
+  background-color: chocolate;
+  /* 가장 늦게들어온 태그 적용 */
+}
+
+.d3{
+  border: 1px solid green;
+  background-color: red;
+  color: aqua;
+}
+.d4{
+  color: beige;
+}
+.d5{
+  color: rgb(94, 94, 57);
+}

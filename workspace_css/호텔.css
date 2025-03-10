@@ -1,0 +1,40 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+font{
+  font-family: "Montserrat", sans-serif; 
+}
+
+.container{
+  width: 100vh;
+  height: 100%;
+  border: 5px solid black;
+  background-color: rgb(169, 240, 240);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+
+}
+member{
+  border: 3px solid red;
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+fa-regular fa-heart{
+  color: white;
+  display: flex;
+  width: 360px;
+}
+font1{
+  font-weight: 400;
+}
+.font2{
+  font-weight: 600;
+}
+.font3{
+  font-weight: 400;
+}

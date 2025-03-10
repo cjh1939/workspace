@@ -1,0 +1,147 @@
+.t{
+  
+  width: 100%;
+  height: 100%;
+
+}
+.h{
+
+width: 60%;
+height: 70px;
+margin: 0 auto;
+display: flex;
+flex-direction: column;
+justify-content: center;
+
+}
+
+ul > li:hover{
+  color: orange;
+}
+
+y5:hover{
+  color: orange;
+}
+.rr22{
+  position: relative;
+}
+.rr33{
+  position: absolute;
+  top: 10%;
+  right: 8%;
+  color: orange;
+}
+
+.head{
+  display: flex;
+  font-size: 15px;
+  justify-content: space-around;
+
+}
+
+.b{
+  
+  width: 100%px;
+  height: 250px;
+
+  position: relative;
+  text-align: center;
+align-items: center;
+overflow: hidden;
+}
+
+.b1{
+position: absolute;
+top: 30%;
+right: 35%;
+
+}
+.j{
+  font-size: 30px;
+  color: rgb(240, 149, 13);
+  
+}
+.j1{
+  font-size: 10px;
+  color: white;
+}
+
+
+
+.fo{
+  width: 150px;
+  border: 1px solid black;
+  height: 30px;
+  text-align: center;
+  color: white;
+  background-color: rgb(240, 149, 13);
+}
+.ee{
+  padding-top: 50px;
+  
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+
+
+
+.hh1{
+  padding-top: 40px;
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0 120px;
+  
+  
+  
+}
+.n1{
+  font-size: 10px;
+  padding-top: 20px;
+}
+
+.hh{
+  width: 130px;
+  height: 130px;
+  border: 15px solid orange;
+  border-radius: 100%;
+  position: relative;
+  color: orange;
+  font-size: 50px;
+}
+
+.h33{
+  position: absolute;
+  top: 15%;
+  right: 25%;
+}
+
+
+.ftt{
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+
+
+}
+.bb1{
+  position: relative;
+}
+.cl{
+  position: absolute;
+  top: 60%;
+  background-color: rgba(17, 17, 15, 0.5);
+  width: 373px;
+  height: 100px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.c22{
+  padding-left: 30px;
+  padding-right: 30px;
+}

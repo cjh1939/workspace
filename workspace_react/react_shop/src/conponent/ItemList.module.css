@@ -1,0 +1,40 @@
+.item_info_container{
+  border: 1px solid black;
+  display: flex;
+}
+.list_div{
+  border: 1px solid red;
+  width: 50%;
+}
+.detail_div{
+  border: 1px solid red;
+  width: 50%;
+}
+.list_table{
+  width: 100%;
+}
+.list_table thead tr{
+  border-top: 1.5px solid #ADA2FF;
+  border-bottom: 1px solid #8e81f1;
+  background-color: #ADA2FF;
+  color: white;
+}
+.list_table tbody tr{
+    border-bottom: 1px solid lightgray;
+}
+.list-table td{
+  padding: 6px;
+}
+.list_table tbody tr:nth-child(even){
+    background-color: rgb(238, 238, 238,0.5);
+}
+.list_table tbody tr:hover{
+  background-color: #eeeeee;
+}
+.detail_table{
+  width: 100%;
+  border: 1px solid #eeeeee;
+}
+.detail_table td{
+  padding: 6px;
+}

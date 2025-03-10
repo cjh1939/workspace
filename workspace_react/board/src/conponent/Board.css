@@ -1,0 +1,41 @@
+
+
+
+
+.co{
+  border: 1px solid black;
+  margin: 0 auto;
+  text-align: center;
+  align-items: center;
+}
+.co1{
+  background-color: rgb(91, 111, 201);
+  color: white;
+  font-size: 20px;
+}
+.m{
+  text-align: center;
+}
+.bu{
+  text-align: center;
+}
+.bo1{
+  background-color: rgba(125, 125, 219, 0.479);
+  color: white;
+  font-size: 20px;
+  border-color: rgba(125, 125, 219, 0.479);
+}
+.de{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  
+}
+.deo tr td{
+  align-items: center;
+  text-align: center;
+  border: 1px solid black;
+  width: 100px;
+  height: 100px;
+  margin: 0 auto;
+}
