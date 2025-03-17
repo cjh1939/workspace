@@ -1,0 +1,7 @@
+
+export const COLOR = {
+  BTN_BACKGROND_COLOR : 'B2A5FF',
+  BTN_BACKGROND_ACTIVE_COLOR: 'B2A5FF'
+
+}
+
